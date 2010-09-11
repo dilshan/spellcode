@@ -3,7 +3,7 @@
 Please follow the below mentioned steps to add SpellCode to the Microsoft Visual Studio IDE as an external tools.
 
 1. Open the Microsoft Visual Studio IDE <BR>
-2. Click Tools > External Tools... menu item <BR>
+2. Click _Tools_ > _External Tools..._ menu item <BR>
 3. Press "_Add_" button <BR>
 4. Specify the following parameters, <BR>
 
