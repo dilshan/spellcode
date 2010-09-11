@@ -1,6 +1,6 @@
 #summary Visual Studio 2008 and SpellCode integration
 
-== Integrate SpellCode into the Visual Studio IDE ==
+== Steps to integrate SpellCode into the Visual Studio IDE ==
 
 Please follow the below mentioned steps to add SpellCode to the Microsoft Visual Studio IDE as an external tools.
 
