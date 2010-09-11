@@ -4,8 +4,8 @@
 
 ==== Global shortcut keys ====
 
-  || *Shortcut key* || *Description* ||
-  || F2 || Save the source code modifications ||
-  || F3 || Browse for project ||
-  || F5 || Scan the entire project for spelling mistakes ||
-  || F7 || Scan the editor for spelling mistakes ||
+|| *Shortcut key* || *Description* ||
+|| F2 || Save the source code modifications ||
+|| F3 || Browse for project ||
+|| F5 || Scan the entire project for spelling mistakes ||
+|| F7 || Scan the editor for spelling mistakes ||
