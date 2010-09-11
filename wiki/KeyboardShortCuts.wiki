@@ -13,7 +13,7 @@
 || Ctrl + V || Paste ||
 || Ctrl + X || Cut ||
 || Tab || Switching between the major screen elements ||
-<P>
+
 === Editor shortcut keys ===
 
 || *Shortcut key* || *Description* ||
