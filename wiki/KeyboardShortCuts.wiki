@@ -2,7 +2,7 @@
 
 == List of SpellCode keyboard shortcuts ==
 
-==== Global shortcut keys ====
+=== Global shortcut keys ===
 
 || *Shortcut key* || *Description* ||
 || F2 || Save the source code modifications ||
