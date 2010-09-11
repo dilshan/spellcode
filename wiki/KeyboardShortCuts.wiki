@@ -9,3 +9,7 @@
 || F3 || Browse for project ||
 || F5 || Scan the entire project for spelling mistakes ||
 || F7 || Scan the editor for spelling mistakes ||
+|| Ctrl + C || Copy ||
+|| Ctrl + V || Paste ||
+|| Ctrl + X || Cut ||
+|| Tab || Switching between the major screen elements ||
