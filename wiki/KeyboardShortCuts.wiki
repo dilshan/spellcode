@@ -30,9 +30,9 @@
 || Ctrl + C / Ctrl + Ins || Copy ||
 || Ctrl + V / Shift + Ins || Paste ||
 || Ctrl + X / Shift + Del || Cut ||
-|| Ctrl + BackSpace || Delete the last word ||
-|| Alt + BackSpace / Ctrl + Z || Undo ||
-|| Alt + Shift + BackSpace / Shift + Ctrl + Z || Redo ||
+|| Ctrl + Back Space || Delete the last word ||
+|| Alt + Back Space / Ctrl + Z || Undo ||
+|| Alt + Shift + Back Space / Shift + Ctrl + Z || Redo ||
 || Ctrl + A || Select All ||
 || Shift + Ctrl + I || Block indent ||
 || Shift + Ctrl + U || Block unindent ||
