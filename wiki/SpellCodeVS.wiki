@@ -4,11 +4,11 @@ Please follow the below mentioned steps to add SpellCode to the Microsoft Visual
 
 1. Open the Microsoft Visual Studio IDE <BR>
 2. Click Tools > External Tools... menu item <BR>
-3. Press "Add" button <BR>
+3. Press "_Add_" button <BR>
 4. Specify the following parameters, <BR>
 
-    * Title : SpellCode
-    * Command : specify the full filename and the path to the spellcode.exe file 
-    * Arguments : "$(ProjectDir)" 1
+    * *Title* : SpellCode
+    * *Command* : specify the full filename and the path to the spellcode.exe file 
+    * *Arguments* : "$(ProjectDir)" 1
      (In here 1 indicates the C++ programming language, you can specify any value from 1 to 11, and it depends on your default programming language) <BR>
-5. Press "OK" button.
+5. Press "_OK_" button.
