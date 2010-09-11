@@ -1,13 +1,11 @@
-#summary One-sentence summary of this page.
+#summary SpellCode keyboard shortcuts
 
-= Introduction =
+== List of SpellCode keyboard shortcuts ==
 
-Add your content here.
+==== Global shortcut keys ====
 
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  || Shortcut key || Description ||
+  || F2 || Save the source code modifications ||
+  || F3 || Browse for project ||
+  || F5 || Scan the entire project for spelling mistakes ||
+  || F7 || Scan the editor for spelling mistakes ||
